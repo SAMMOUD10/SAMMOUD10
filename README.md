@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<a href="https://app.daily.dev/Sammoud"><img src="https://api.daily.dev/devcards/a000e88772ae4c028230ce6fc779dabe.png?r=tun" width="400" alt="Salaheddine Sammoud's Dev Card"/></a>
